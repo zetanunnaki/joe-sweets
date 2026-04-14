@@ -3,7 +3,12 @@ import { Order } from '@/types';
 import { getAllProducts } from '@/lib/products';
 import { formatCurrency } from '@/lib/utils';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+// Lazily initialised — avoids build-time crash when env var is absent
+let _resend: Resend | null = null;
+function getResend(): Resend {
+  if (!_resend) _resend = new Resend(process.env.RESEND_API_KEY ?? 'placeholder');
+  return _resend;
+}
 const FROM = 'Joe Sweets <orders@joe-sweets.com>';
 const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'order@joe-sweets.com';
 
@@ -198,14 +203,14 @@ export async function sendOrderNotifications(order: Order): Promise<void> {
   try {
     await Promise.all([
       // Notify owner
-      resend.emails.send({
+      getResend().emails.send({
         from: FROM,
         to: [ADMIN_EMAIL],
         subject: `New Order #${order.id} — ${formatCurrency(order.total)} from ${order.customer.name}`,
         html: buildOwnerEmail(order),
       }),
       // Confirm to customer
-      resend.emails.send({
+      getResend().emails.send({
         from: FROM,
         to: [order.customer.email],
         subject: `Order Confirmed — Joe Sweets #${order.id}`,
