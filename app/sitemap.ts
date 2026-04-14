@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllProducts, getAllCategories } from '@/lib/products';
 
-const BASE_URL = 'https://joe-sweets.com';
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://joe-sweets.vercel.app';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const products = getAllProducts();

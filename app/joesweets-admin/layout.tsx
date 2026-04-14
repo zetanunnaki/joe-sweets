@@ -115,6 +115,13 @@ function Topbar({ onMenuClick }: { onMenuClick: () => void }) {
 
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const pathname = usePathname();
+  const isLoginPage = pathname === '/joesweets-admin';
+
+  // Render bare layout for login page — no sidebar/topbar
+  if (isLoginPage) {
+    return <>{children}</>;
+  }
 
   return (
     <div style={{ display: 'flex', minHeight: '100vh', backgroundColor: '#f8f4ef' }}>
