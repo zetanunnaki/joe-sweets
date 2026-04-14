@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah M.",
+    "text": "The baklava reminded me of my grandmother's kitchen in Cairo. Absolutely authentic!",
+    "rating": 5,
+    "avatar": "https://placehold.co/80x80/C8963E/FFFFFF?text=SM",
+    "date": "2026-03-15"
+  },
+  {
+    "id": "2",
+    "name": "Ahmed K.",
+    "text": "Best koshari outside of Egypt. The spicy sauce is perfect. Will order again every week!",
+    "rating": 5,
+    "avatar": "https://placehold.co/80x80/2C1810/FFFFFF?text=AK",
+    "date": "2026-03-20"
+  },
+  {
+    "id": "3",
+    "name": "Fatima R.",
+    "text": "Ordered the luxury sweet box for Eid and everyone was amazed. The packaging was gorgeous.",
+    "rating": 5,
+    "avatar": "https://placehold.co/80x80/D44D4D/FFFFFF?text=FR",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "4",
+    "name": "David L.",
+    "text": "My Egyptian coworker recommended Joe Sweets and now I'm obsessed with the kunafa. Life changing.",
+    "rating": 5,
+    "avatar": "https://placehold.co/80x80/A67A2E/FFFFFF?text=DL",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "5",
+    "name": "Nadia S.",
+    "text": "Fresh, delicious, delivered with care. The Om Ali was still warm when it arrived. Incredible service.",
+    "rating": 5,
+    "avatar": "https://placehold.co/80x80/C8963E/FFFFFF?text=NS",
+    "date": "2026-04-05"
+  },
+  {
+    "id": "6",
+    "name": "Omar F.",
+    "text": "The hawawshi brought me straight back to Alexandria. Perfect seasoning, crispy bread — mama approved!",
+    "rating": 5,
+    "avatar": "https://placehold.co/80x80/2C1810/FFFFFF?text=OF",
+    "date": "2026-04-08"
+  }
+]

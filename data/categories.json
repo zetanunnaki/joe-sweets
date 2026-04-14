@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sweets",
+    "name": "Egyptian Sweets",
+    "nameAr": "حلويات مصرية",
+    "icon": "cake",
+    "image": "https://placehold.co/400x300/C8963E/FFFFFF?text=Egyptian+Sweets",
+    "description": "Baklava, Kunafa, Basbousa, and more"
+  },
+  {
+    "id": "foods",
+    "name": "Egyptian Foods",
+    "nameAr": "أكلات مصرية",
+    "icon": "utensils",
+    "image": "https://placehold.co/400x300/2C1810/FFFFFF?text=Egyptian+Foods",
+    "description": "Koshari, Molokhia, Hawawshi, Foul & Falafel"
+  },
+  {
+    "id": "drinks",
+    "name": "Drinks",
+    "nameAr": "مشروبات",
+    "icon": "cup-soda",
+    "image": "https://placehold.co/400x300/D44D4D/FFFFFF?text=Drinks",
+    "description": "Sahlab, Karkadeh, Tamarind"
+  },
+  {
+    "id": "boxes",
+    "name": "Gift Boxes",
+    "nameAr": "علب هدايا",
+    "icon": "gift",
+    "image": "https://placehold.co/400x300/A67A2E/FFFFFF?text=Gift+Boxes",
+    "description": "Custom sweet boxes for every occasion"
+  }
+]

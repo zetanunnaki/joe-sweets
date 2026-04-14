@@ -1,0 +1,16 @@
+{
+  "name": "Joe Sweets",
+  "tagline": "Making Life Sweeter",
+  "description": "Homemade Egyptian Food & Desserts — DMV Area | Fresh Daily | Delivery Available",
+  "phone": "+1-202-555-0100",
+  "email": "order@joe-sweets.com",
+  "instagram": "https://www.instagram.com/joe.sweets_/",
+  "address": "DMV Area, USA",
+  "deliveryZones": ["Washington DC", "Maryland", "Virginia"],
+  "deliveryFee": 5.00,
+  "freeDeliveryMin": 50.00,
+  "businessHours": "Mon–Sat: 9AM – 8PM",
+  "stripe": {
+    "publicKey": "pk_test_placeholder"
+  }
+}

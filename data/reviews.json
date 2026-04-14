@@ -1,0 +1,79 @@
+{
+  "baklava-classic": [
+    { "id": "r1", "name": "Nadia S.", "avatar": "N", "rating": 5, "date": "2026-03-28", "title": "Absolutely authentic!", "text": "I grew up eating baklava in Alexandria and this is the closest I've found in the DMV. The rose water syrup is perfectly balanced — not too sweet. The phyllo is shatteringly crisp. Will be ordering again for Eid." },
+    { "id": "r2", "name": "Marcus J.", "avatar": "M", "rating": 5, "date": "2026-03-15", "title": "Best baklava I've ever had", "text": "My wife introduced me to Egyptian baklava through Joe Sweets and I'm hooked. The pistachio-to-walnut ratio is perfect and the layers are so thin and flaky. Arrived perfectly packaged." },
+    { "id": "r3", "name": "Fatima A.", "avatar": "F", "rating": 5, "date": "2026-02-20", "title": "Ordered for a party", "text": "Got the large tray for a dinner party of 20 — completely gone within minutes. Everyone was asking where I got it. Fresh, fragrant, and beautiful presentation." },
+    { "id": "r4", "name": "David K.", "avatar": "D", "rating": 4, "date": "2026-02-05", "title": "Very good, slightly sweet for me", "text": "The quality is outstanding — you can tell everything is made from scratch. I personally prefer mine a little less sweet but I know that's a personal preference. Will definitely order again." }
+  ],
+  "kunafa-cream": [
+    { "id": "r5", "name": "Yasmine H.", "avatar": "Y", "rating": 5, "date": "2026-04-01", "title": "Warm and dreamy", "text": "The cream filling is so luscious — it tastes exactly like my grandmother's recipe. The orange blossom syrup is fragrant without being overpowering. This is comfort food at its finest." },
+    { "id": "r6", "name": "James T.", "avatar": "J", "rating": 5, "date": "2026-03-18", "title": "Game changer", "text": "I'd never had kunafa before. This changed my life. Crispy outside, creamy inside, with that syrup... I placed a second order the next day. No regrets." },
+    { "id": "r7", "name": "Leila M.", "avatar": "L", "rating": 4, "date": "2026-02-28", "title": "Authentic taste", "text": "As someone who's eaten kunafa all over the Middle East, I can say this is genuinely excellent. Delivered warm and still crispy. Impressive." }
+  ],
+  "basbousa-classic": [
+    { "id": "r8", "name": "Rania O.", "avatar": "R", "rating": 5, "date": "2026-03-22", "title": "Perfect texture", "text": "The semolina has the perfect slightly grainy texture and the almond on top is a nice touch. Soaked in just the right amount of syrup — moist but not soggy. Reminds me of home." },
+    { "id": "r9", "name": "Chris B.", "avatar": "C", "rating": 5, "date": "2026-03-10", "title": "Brought it to a potluck", "text": "Was the star of the potluck. Nobody had tried Egyptian food before and everyone wanted the recipe. Told them to just order from Joe Sweets!" },
+    { "id": "r10", "name": "Amira Z.", "avatar": "A", "rating": 4, "date": "2026-02-14", "title": "Great for gifting", "text": "Ordered for Valentine's Day. Beautiful packaging and delicious. The large tray was great value — fed 6 people easily with some left over." }
+  ],
+  "om-ali": [
+    { "id": "r11", "name": "Sarah N.", "avatar": "S", "rating": 5, "date": "2026-04-05", "title": "Better than Cairo!", "text": "I lived in Egypt for 3 years and the Om Ali from Joe Sweets honestly rivals what I had there. Puff pastry, raisins, coconut — all in perfect balance. The warm milk soak is divine." },
+    { "id": "r12", "name": "Omar F.", "avatar": "O", "rating": 5, "date": "2026-03-19", "title": "A taste of home", "text": "My mom used to make this every Friday growing up. This brought back so many memories. The golden top and the creamy warm interior — absolutely perfect." },
+    { "id": "r13", "name": "Elena V.", "avatar": "E", "rating": 5, "date": "2026-02-28", "title": "Incredible dessert", "text": "Had no idea what Om Ali was before a friend recommended Joe Sweets. Now it's my go-to dessert for dinner parties. Rich, comforting, and unique — guests are always impressed." }
+  ],
+  "qatayef": [
+    { "id": "r14", "name": "Hassan K.", "avatar": "H", "rating": 5, "date": "2026-03-30", "title": "Ramadan memories", "text": "These taste exactly like the qatayef we'd have after iftar. The cheese ones are perfectly salted against the sweet syrup drizzle. So glad I can get these outside of Ramadan now!" },
+    { "id": "r15", "name": "Priya R.", "avatar": "P", "rating": 4, "date": "2026-03-12", "title": "Unique and delicious", "text": "First time trying qatayef and I loved them. The walnut filling had a lovely earthy sweetness. Definitely ordering the mixed pack next time." }
+  ],
+  "konafa-nutella": [
+    { "id": "r16", "name": "Ahmed S.", "avatar": "A", "rating": 5, "date": "2026-04-08", "title": "Genius fusion", "text": "At first I was skeptical about Nutella in kunafa — I thought it might be gimmicky. I was completely wrong. The Nutella adds a richness that works perfectly with the crispy dough. Topped with pistachios? Perfection." },
+    { "id": "r17", "name": "Zoe W.", "avatar": "Z", "rating": 5, "date": "2026-03-25", "title": "My kids' new favorite", "text": "Ordered this on a whim and my three kids have been requesting it every week. The Nutella filling is generous and the dough stays crispy even after reheating. 10/10." },
+    { "id": "r18", "name": "Karim B.", "avatar": "K", "rating": 5, "date": "2026-03-05", "title": "Wildly good", "text": "I've had versions of this in Egypt and New York but Joe Sweets nails it. The balance of sweet, rich Nutella with the crunch is addictive. Already on my third order." },
+    { "id": "r19", "name": "Ting L.", "avatar": "T", "rating": 4, "date": "2026-02-18", "title": "Great as a gift", "text": "Brought this to my office and it was completely devoured in 20 minutes. My Egyptian colleagues said it was legit. Love the pistachio topping — adds great color and crunch." }
+  ],
+  "ghorayeba": [
+    { "id": "r20", "name": "Mona S.", "avatar": "M", "rating": 5, "date": "2026-03-20", "title": "Melt in your mouth!", "text": "These are dangerously good. You pick one up and suddenly the box is half empty. The butter flavor is so clean and the texture is impossibly light. I've made these at home before but these are better." },
+    { "id": "r21", "name": "Robert H.", "avatar": "R", "rating": 5, "date": "2026-03-01", "title": "Perfect with tea", "text": "I have a cup of Egyptian mint tea every afternoon and now I always have Ghorayeba alongside. The subtle sweetness pairs perfectly. Very elegant little cookies." }
+  ],
+  "kahk-eid": [
+    { "id": "r22", "name": "Dina F.", "avatar": "D", "rating": 5, "date": "2026-04-10", "title": "Eid wouldn't be the same without these", "text": "Every year I order from Joe Sweets for Eid and every year they deliver perfectly. The date filling is the best — you can taste the quality of the medjool dates. The powdered sugar coating is generous and beautiful." },
+    { "id": "r23", "name": "Layla N.", "avatar": "L", "rating": 5, "date": "2026-03-28", "title": "Sent to my family in New York", "text": "Had them shipped to my parents and my mom called me crying happy tears. Said they taste like the kahk from her childhood in Cairo. That's the highest compliment possible." },
+    { "id": "r24", "name": "Hana M.", "avatar": "H", "rating": 5, "date": "2026-03-15", "title": "The mixed box is the move", "text": "Can't decide between dates, nuts, or Turkish delight filling? Get the mixed box. I do this every Eid and my family has a whole ritual of tasting each type. Pure joy." }
+  ],
+  "koshari": [
+    { "id": "r25", "name": "Rana T.", "avatar": "R", "rating": 5, "date": "2026-04-02", "title": "The real deal", "text": "I'm Egyptian and I've been craving koshari since I moved to the DMV. This is IT. The crispy onions are perfect, the vinegar sauce has the right kick, and the portions are generous. So happy I found Joe Sweets." },
+    { "id": "r26", "name": "Michael C.", "avatar": "M", "rating": 5, "date": "2026-03-20", "title": "My new comfort food", "text": "Never had Egyptian food before and my coworker brought this in for lunch. I immediately ordered my own. The combination of textures — lentils, pasta, rice, chickpeas — with that savory tomato sauce is unreal." },
+    { "id": "r27", "name": "Sofia K.", "avatar": "S", "rating": 5, "date": "2026-03-05", "title": "Vegan and incredible", "text": "As a vegan I'm always looking for filling, flavorful options. Koshari is everything — hearty, complex, completely plant-based. The garlic vinegar drizzle puts it over the top." },
+    { "id": "r28", "name": "Kevin P.", "avatar": "K", "rating": 4, "date": "2026-02-22", "title": "Great value for the portion size", "text": "The large portion is a real meal. Arrived hot and the sauces were packaged separately so nothing got soggy. Smart packaging. Very good flavor." }
+  ],
+  "hawawshi": [
+    { "id": "r29", "name": "Tarek O.", "avatar": "T", "rating": 5, "date": "2026-03-28", "title": "Street food perfection", "text": "This is exactly how hawawshi should be — spiced beef, slightly charred pita, the smell of baking filling your kitchen when you reheat it. 100% authentic." },
+    { "id": "r30", "name": "Amanda R.", "avatar": "A", "rating": 5, "date": "2026-03-12", "title": "My husband's obsession", "text": "My husband tried one at a party and now I order these every two weeks. The green peppers in the filling give it a nice freshness. The crust is perfectly crispy." }
+  ],
+  "foul-falafel": [
+    { "id": "r31", "name": "Kamal Y.", "avatar": "K", "rating": 5, "date": "2026-04-05", "title": "Egyptian breakfast in the DMV!", "text": "This is the breakfast I grew up with. The foul is perfectly seasoned with cumin and lemon — not too mushy, not too firm. The falafel is crispy and herb-forward. With fresh bread? Absolute perfection." },
+    { "id": "r32", "name": "Anna B.", "avatar": "A", "rating": 4, "date": "2026-03-18", "title": "Hearty and flavorful", "text": "Ordered for a weekend brunch and loved it. The fava beans are so savory and satisfying. The falafel was better than any I've had at a restaurant here. Will be a regular order." }
+  ],
+  "molokhia-chicken": [
+    { "id": "r33", "name": "Iman H.", "avatar": "I", "rating": 5, "date": "2026-04-06", "title": "Just like baba used to make", "text": "The depth of flavor in this molokhia is extraordinary. The garlic and coriander ta'leya (the fried finishing oil) is rich and aromatic. The chicken is so tender. I cried a little — it reminds me so much of home." },
+    { "id": "r34", "name": "Paul S.", "avatar": "P", "rating": 5, "date": "2026-03-22", "title": "Converted a skeptic", "text": "My Egyptian friends kept telling me I had to try molokhia. I finally did and I completely understand. It's silky, deeply savory, and rich. The family pot fed 5 of us and everyone wanted seconds." },
+    { "id": "r35", "name": "Mariam Y.", "avatar": "M", "rating": 5, "date": "2026-03-01", "title": "Exactly right", "text": "This is one of those dishes where getting the garlic flavor exactly right is everything. Joe Sweets nails it. The molokhia has that perfect viscous texture with bright herb flavor. Served over rice with the chicken — magnificent." }
+  ],
+  "sahlab": [
+    { "id": "r36", "name": "Nora A.", "avatar": "N", "rating": 5, "date": "2026-03-15", "title": "Winter in a cup", "text": "I discovered sahlab in Istanbul years ago and could never find it here. Joe Sweets' version is even better — warm, creamy, with that generous topping of cinnamon, coconut, and nuts. Perfect for cold DMV winters." },
+    { "id": "r37", "name": "Tom W.", "avatar": "T", "rating": 5, "date": "2026-02-28", "title": "Unique and comforting", "text": "Never heard of sahlab before but a friend suggested it. It's like a warm, silky hot chocolate but completely different — floral, nutty, cozy. Became my go-to winter drink immediately." }
+  ],
+  "karkadeh": [
+    { "id": "r38", "name": "Lena S.", "avatar": "L", "rating": 5, "date": "2026-04-01", "title": "So refreshing!", "text": "The karkadeh is perfectly tart and sweet — not artificial tasting at all. You can tell it's made from real dried hibiscus flowers. Beautiful deep red color. Great antioxidant boost too!" },
+    { "id": "r39", "name": "Youssef M.", "avatar": "Y", "rating": 4, "date": "2026-03-10", "title": "Tastes like home", "text": "We drink karkadeh cold in Egypt in the summer. Joe Sweets makes it authentically — tart, a little floral, with just the right sweetness. The 4-pack is great value." }
+  ],
+  "sweet-box-classic": [
+    { "id": "r40", "name": "Bridget M.", "avatar": "B", "rating": 5, "date": "2026-04-08", "title": "Perfect gift!", "text": "Sent this to my boss as a thank you gift and she was over the moon. Beautiful packaging and such a variety of sweets. She called me to say it was the best gift she'd ever received at work. Sold." },
+    { "id": "r41", "name": "Carlos F.", "avatar": "C", "rating": 5, "date": "2026-03-25", "title": "Great variety", "text": "The combination of baklava, basbousa, ghorayeba and kahk in one box is brilliant. Every sweet is excellent quality — not one weak link. Bought 3 of these for holiday gifts." },
+    { "id": "r42", "name": "Nina P.", "avatar": "N", "rating": 5, "date": "2026-03-10", "title": "Ordered for a housewarming", "text": "This was my housewarming gift to new neighbors and they absolutely loved it. The large tray was stunning — so beautifully arranged. Guests thought I'd spent a fortune." }
+  ],
+  "luxury-box": [
+    { "id": "r43", "name": "Sasha K.", "avatar": "S", "rating": 5, "date": "2026-04-09", "title": "Truly luxurious", "text": "Ordered for my parents' anniversary. The ribbon and handcrafted box presentation was stunning — looked like it came from a high-end boutique. Everything inside was exceptional quality. They were speechless." },
+    { "id": "r44", "name": "Patrick O.", "avatar": "P", "rating": 5, "date": "2026-03-30", "title": "Worth every penny", "text": "The premium baklava bites alone are worth the price. Add in the kunafa bites, chocolates, and kahk and you have a truly special gift. Sent to a corporate client and they emailed me specifically to say how impressed they were." },
+    { "id": "r45", "name": "Hana F.", "avatar": "H", "rating": 5, "date": "2026-03-12", "title": "The gold standard of gifting", "text": "I've sent this to 5 different people for different occasions and the reaction is always the same: pure delight. It's become my go-to corporate and personal gift. Joe Sweets never lets me down." }
+  ]
+}

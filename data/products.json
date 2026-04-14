@@ -1,0 +1,403 @@
+[
+  {
+    "id": "baklava-classic",
+    "slug": "baklava-classic",
+    "name": "Classic Egyptian Baklava",
+    "nameAr": "بقلاوة مصرية كلاسيك",
+    "category": "sweets",
+    "subcategory": "baklava",
+    "description": "Layers of flaky phyllo dough, filled with crushed pistachios and walnuts, drenched in our signature rose-water syrup. A timeless Egyptian classic made fresh daily.",
+    "price": 25.00,
+    "compareAtPrice": 30.00,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Classic+Baklava",
+      "https://placehold.co/600x400/A67A2E/FFFFFF?text=Baklava+Detail"
+    ],
+    "variants": [
+      { "id": "bc-sm", "label": "Small (12 pcs)", "price": 25.00 },
+      { "id": "bc-lg", "label": "Large (24 pcs)", "price": 45.00 }
+    ],
+    "tags": ["bestseller", "nuts"],
+    "inStock": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 47
+  },
+  {
+    "id": "kunafa-cream",
+    "slug": "kunafa-cream",
+    "name": "Kunafa bil Ashta",
+    "nameAr": "كنافة بالقشطة",
+    "category": "sweets",
+    "subcategory": "kunafa",
+    "description": "Golden shredded wheat dough layered with rich clotted cream, soaked in fragrant orange blossom syrup. Served warm, crispy on the outside, creamy within.",
+    "price": 30.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/D44D4D/FFFFFF?text=Kunafa+Cream",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Kunafa+Detail"
+    ],
+    "variants": [
+      { "id": "kc-sm", "label": "Small (6 pcs)", "price": 30.00 },
+      { "id": "kc-lg", "label": "Large (12 pcs)", "price": 55.00 }
+    ],
+    "tags": ["bestseller", "cream"],
+    "inStock": true,
+    "featured": true,
+    "rating": 4.8,
+    "reviewCount": 38
+  },
+  {
+    "id": "basbousa-classic",
+    "slug": "basbousa-classic",
+    "name": "Classic Basbousa",
+    "nameAr": "بسبوسة كلاسيك",
+    "category": "sweets",
+    "subcategory": "basbousa",
+    "description": "Semolina cake soaked in sweet syrup, topped with a blanched almond. Moist, fragrant, and perfectly sweet — a beloved Egyptian treat.",
+    "price": 20.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/A67A2E/FFFFFF?text=Basbousa",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Basbousa+Detail"
+    ],
+    "variants": [
+      { "id": "bsc-sm", "label": "Small Tray (9 pcs)", "price": 20.00 },
+      { "id": "bsc-lg", "label": "Large Tray (18 pcs)", "price": 35.00 }
+    ],
+    "tags": ["vegetarian", "semolina"],
+    "inStock": true,
+    "featured": true,
+    "rating": 4.7,
+    "reviewCount": 29
+  },
+  {
+    "id": "om-ali",
+    "slug": "om-ali",
+    "name": "Om Ali",
+    "nameAr": "أم علي",
+    "category": "sweets",
+    "subcategory": "pudding",
+    "description": "Egypt's beloved bread pudding: layers of puff pastry, warm milk, coconut, raisins, and nuts baked to a golden bubbling perfection. Served warm.",
+    "price": 22.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Om+Ali",
+      "https://placehold.co/600x400/A67A2E/FFFFFF?text=Om+Ali+Detail"
+    ],
+    "variants": [
+      { "id": "oa-ind", "label": "Individual (1 portion)", "price": 8.00 },
+      { "id": "oa-fam", "label": "Family (4 portions)", "price": 22.00 }
+    ],
+    "tags": ["warm", "nuts", "bestseller"],
+    "inStock": true,
+    "featured": false,
+    "rating": 4.9,
+    "reviewCount": 22
+  },
+  {
+    "id": "qatayef",
+    "slug": "qatayef",
+    "name": "Qatayef Ramadan Pancakes",
+    "nameAr": "قطايف",
+    "category": "sweets",
+    "subcategory": "qatayef",
+    "description": "Traditional Ramadan mini pancakes stuffed with sweet cheese or walnuts, fried golden and drizzled with syrup. A festive treat available year-round.",
+    "price": 18.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/D44D4D/FFFFFF?text=Qatayef",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Qatayef+Detail"
+    ],
+    "variants": [
+      { "id": "qt-cheese", "label": "Cheese Filled (10 pcs)", "price": 18.00 },
+      { "id": "qt-walnut", "label": "Walnut Filled (10 pcs)", "price": 18.00 }
+    ],
+    "tags": ["ramadan", "fried", "festive"],
+    "inStock": true,
+    "featured": false,
+    "rating": 4.6,
+    "reviewCount": 15
+  },
+  {
+    "id": "konafa-nutella",
+    "slug": "konafa-nutella",
+    "name": "Nutella Kunafa",
+    "nameAr": "كنافة نوتيلا",
+    "category": "sweets",
+    "subcategory": "kunafa",
+    "description": "A modern Egyptian twist on the classic kunafa, filled with rich Nutella and topped with crushed pistachios. A crowd-pleasing fusion dessert.",
+    "price": 32.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/2C1810/FFFFFF?text=Nutella+Kunafa",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Nutella+Kunafa+Detail"
+    ],
+    "variants": [
+      { "id": "kn-sm", "label": "Small (6 pcs)", "price": 32.00 },
+      { "id": "kn-lg", "label": "Large (12 pcs)", "price": 58.00 }
+    ],
+    "tags": ["nutella", "fusion", "bestseller"],
+    "inStock": true,
+    "featured": true,
+    "rating": 4.8,
+    "reviewCount": 41
+  },
+  {
+    "id": "ghorayeba",
+    "slug": "ghorayeba",
+    "name": "Ghorayeba Cookies",
+    "nameAr": "غريبة",
+    "category": "sweets",
+    "subcategory": "cookies",
+    "description": "Melt-in-your-mouth Egyptian shortbread cookies made with butter, flour, and powdered sugar. Light, delicate, and irresistibly buttery.",
+    "price": 15.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/F5EDE0/2C1810?text=Ghorayeba",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Ghorayeba+Detail"
+    ],
+    "variants": [
+      { "id": "gh-sm", "label": "Small Box (20 pcs)", "price": 15.00 },
+      { "id": "gh-lg", "label": "Large Box (40 pcs)", "price": 28.00 }
+    ],
+    "tags": ["cookies", "butter", "gift"],
+    "inStock": true,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 19
+  },
+  {
+    "id": "kahk-eid",
+    "slug": "kahk-eid",
+    "name": "Kahk El Eid",
+    "nameAr": "كحك العيد",
+    "category": "sweets",
+    "subcategory": "cookies",
+    "description": "Traditional Egyptian Eid cookies filled with dates, nuts, or Turkish delight, dusted with powdered sugar. A symbol of celebration and family.",
+    "price": 28.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Kahk+El+Eid",
+      "https://placehold.co/600x400/A67A2E/FFFFFF?text=Kahk+Detail"
+    ],
+    "variants": [
+      { "id": "kk-dates", "label": "Date Filled (12 pcs)", "price": 28.00 },
+      { "id": "kk-nuts", "label": "Nut Filled (12 pcs)", "price": 28.00 },
+      { "id": "kk-mixed", "label": "Mixed Box (12 pcs)", "price": 28.00 }
+    ],
+    "tags": ["eid", "cookies", "festive", "gift"],
+    "inStock": true,
+    "featured": true,
+    "rating": 5.0,
+    "reviewCount": 33
+  },
+  {
+    "id": "koshari",
+    "slug": "koshari",
+    "name": "Classic Koshari",
+    "nameAr": "كشري",
+    "category": "foods",
+    "subcategory": "rice",
+    "description": "Egypt's beloved street food: a hearty mix of rice, lentils, pasta, and chickpeas topped with caramelized onions, spicy tomato sauce, and garlic vinegar.",
+    "price": 12.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/2C1810/FFFFFF?text=Koshari",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Koshari+Detail"
+    ],
+    "variants": [
+      { "id": "ksh-sm", "label": "Regular", "price": 12.00 },
+      { "id": "ksh-lg", "label": "Large", "price": 16.00 }
+    ],
+    "tags": ["vegan", "street-food", "bestseller"],
+    "inStock": true,
+    "featured": true,
+    "rating": 4.8,
+    "reviewCount": 54
+  },
+  {
+    "id": "hawawshi",
+    "slug": "hawawshi",
+    "name": "Hawawshi",
+    "nameAr": "حواوشي",
+    "category": "foods",
+    "subcategory": "sandwiches",
+    "description": "Egyptian spiced ground beef stuffed inside crispy pita bread, seasoned with onions, parsley, and green peppers. Baked until golden and irresistible.",
+    "price": 10.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/D44D4D/FFFFFF?text=Hawawshi",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Hawawshi+Detail"
+    ],
+    "variants": [
+      { "id": "hw-1", "label": "1 piece", "price": 10.00 },
+      { "id": "hw-2", "label": "2 pieces", "price": 18.00 }
+    ],
+    "tags": ["beef", "baked", "street-food"],
+    "inStock": true,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 31
+  },
+  {
+    "id": "foul-falafel",
+    "slug": "foul-falafel",
+    "name": "Foul & Falafel Plate",
+    "nameAr": "فول وفلافل",
+    "category": "foods",
+    "subcategory": "breakfast",
+    "description": "The classic Egyptian breakfast: slow-cooked fava beans seasoned with cumin and lemon, served alongside crispy golden falafel. Served with fresh bread.",
+    "price": 14.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/A67A2E/FFFFFF?text=Foul+Falafel",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Foul+Falafel+Detail"
+    ],
+    "variants": [
+      { "id": "ff-1", "label": "Single Plate", "price": 14.00 },
+      { "id": "ff-2", "label": "Family Platter (4)", "price": 48.00 }
+    ],
+    "tags": ["vegan", "breakfast", "fava"],
+    "inStock": true,
+    "featured": false,
+    "rating": 4.6,
+    "reviewCount": 27
+  },
+  {
+    "id": "molokhia-chicken",
+    "slug": "molokhia-chicken",
+    "name": "Molokhia with Chicken",
+    "nameAr": "ملوخية بالفراخ",
+    "category": "foods",
+    "subcategory": "stews",
+    "description": "Silky Egyptian green herb stew made from molokhia leaves, cooked with rich chicken broth, garlic, and coriander. Served with white rice and roasted chicken.",
+    "price": 18.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/2C1810/FFFFFF?text=Molokhia",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Molokhia+Detail"
+    ],
+    "variants": [
+      { "id": "ml-1", "label": "Single Portion", "price": 18.00 },
+      { "id": "ml-2", "label": "Family Pot (4 portions)", "price": 60.00 }
+    ],
+    "tags": ["chicken", "stew", "comfort-food"],
+    "inStock": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 42
+  },
+  {
+    "id": "sahlab",
+    "slug": "sahlab",
+    "name": "Sahlab",
+    "nameAr": "سحلب",
+    "category": "drinks",
+    "subcategory": "hot",
+    "description": "A warm, creamy Egyptian winter drink made from orchid root powder, milk, and topped with cinnamon, coconut, and crushed nuts. Cozy and comforting.",
+    "price": 6.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Sahlab",
+      "https://placehold.co/600x400/A67A2E/FFFFFF?text=Sahlab+Detail"
+    ],
+    "variants": [
+      { "id": "sl-1", "label": "Single Cup", "price": 6.00 },
+      { "id": "sl-4", "label": "4-Pack", "price": 20.00 }
+    ],
+    "tags": ["hot", "winter", "milk"],
+    "inStock": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 18
+  },
+  {
+    "id": "karkadeh",
+    "slug": "karkadeh",
+    "name": "Karkadeh (Hibiscus)",
+    "nameAr": "كركديه",
+    "category": "drinks",
+    "subcategory": "cold",
+    "description": "Vibrant deep-red hibiscus flower drink, naturally tart and sweet. Served chilled — a Nile Valley staple packed with antioxidants and refreshing flavor.",
+    "price": 5.00,
+    "compareAtPrice": null,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/D44D4D/FFFFFF?text=Karkadeh",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Karkadeh+Detail"
+    ],
+    "variants": [
+      { "id": "kk-1", "label": "Single (16 oz)", "price": 5.00 },
+      { "id": "kk-4", "label": "4-Pack", "price": 16.00 }
+    ],
+    "tags": ["cold", "hibiscus", "vegan", "antioxidants"],
+    "inStock": true,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 14
+  },
+  {
+    "id": "sweet-box-classic",
+    "slug": "sweet-box-classic",
+    "name": "Classic Egyptian Sweet Box",
+    "nameAr": "علبة حلويات مصرية كلاسيك",
+    "category": "boxes",
+    "subcategory": "gift",
+    "description": "A curated gift box featuring our most beloved Egyptian sweets: Baklava, Basbousa, Ghorayeba, and Kahk. Beautifully packaged, perfect for gifting.",
+    "price": 45.00,
+    "compareAtPrice": 55.00,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Classic+Sweet+Box",
+      "https://placehold.co/600x400/A67A2E/FFFFFF?text=Sweet+Box+Detail"
+    ],
+    "variants": [
+      { "id": "csb-sm", "label": "Small (24 pcs assorted)", "price": 45.00 },
+      { "id": "csb-lg", "label": "Large (48 pcs assorted)", "price": 80.00 }
+    ],
+    "tags": ["gift", "assorted", "bestseller"],
+    "inStock": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 36
+  },
+  {
+    "id": "luxury-box",
+    "slug": "luxury-box",
+    "name": "Luxury Celebration Box",
+    "nameAr": "علبة احتفالات فاخرة",
+    "category": "boxes",
+    "subcategory": "gift",
+    "description": "Our premium gift experience: premium baklava, kunafa bites, kahk, ghorayeba, and artisan chocolates in an elegant handcrafted box with ribbon.",
+    "price": 75.00,
+    "compareAtPrice": 90.00,
+    "currency": "USD",
+    "images": [
+      "https://placehold.co/600x400/2C1810/FFFFFF?text=Luxury+Box",
+      "https://placehold.co/600x400/C8963E/FFFFFF?text=Luxury+Box+Detail"
+    ],
+    "variants": [
+      { "id": "lb-std", "label": "Standard (36 pcs)", "price": 75.00 },
+      { "id": "lb-xl", "label": "XL (60 pcs)", "price": 120.00 }
+    ],
+    "tags": ["luxury", "gift", "celebration", "premium"],
+    "inStock": true,
+    "featured": true,
+    "rating": 5.0,
+    "reviewCount": 28
+  }
+]
